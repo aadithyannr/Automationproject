@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-18T02:54:48 IST" name="Default suite" finished-at="2023-07-18T02:56:02 IST" duration-ms="73878">
+    <groups>
+    </groups>
+    <test started-at="2023-07-18T02:54:48 IST" name="Default test" finished-at="2023-07-18T02:56:02 IST" duration-ms="73878">
+      <class name="tst.StSelectionTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tst.StSelectionTest@bae7dc0]" started-at="2023-07-18T02:54:48 IST" name="setup" finished-at="2023-07-18T02:55:17 IST" duration-ms="28657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="sourceandDestinationTest()[pri:0, instance:tst.StSelectionTest@bae7dc0]" started-at="2023-07-18T02:55:17 IST" name="sourceandDestinationTest" finished-at="2023-07-18T02:55:28 IST" duration-ms="11418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sourceandDestinationTest -->
+        <test-method signature="seatselection()[pri:0, instance:tst.StSelectionTest@bae7dc0]" started-at="2023-07-18T02:55:28 IST" name="seatselection" finished-at="2023-07-18T02:55:57 IST" duration-ms="28733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seatselection -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tst.StSelectionTest@bae7dc0]" started-at="2023-07-18T02:55:57 IST" name="teardown" finished-at="2023-07-18T02:56:02 IST" duration-ms="4956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tst.StSelectionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
